@@ -1,7 +1,4 @@
 # **Cloud Computing**
-
-### **Cloud 101**
-
 - The cloud is a network of remote servers hosted on the internet used to store, manage, and process data.
 - The cloud can be referred to as Hardware (hard drives, processors) and Applications (Google Workspace, Microsoft 365).
 - The cloud can be referred to as databases (Snowflake, Databricks) and coding environments (Colab, VSCode, Project IDX, Sqliteonline) 
