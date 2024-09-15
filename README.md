@@ -34,7 +34,7 @@ Cost | High initial investments in equipment. High overhead cost (maintenance, u
 Security | More secure due to lack of internet endpoints, security is managed in-house | Internet endpoints increase risks, and security is mostly outsourced by third parties.
 Reliability | Natural disasters pose great risks, resilient to internet disruptions | Resilient to natural disasters, lack of internet disrupts access and usage. Data is backed up at multiple servers at different locations.
 
-### ** Who uses the cloud? Data Roles and Cloud**
+### **Who uses the cloud? Data Roles and Cloud**
 
 1. Business and Data Analyst
 - Primarily end users/consumers of cloud platforms. They work with databases and software hosted in the cloud.
