@@ -1,15 +1,15 @@
 # **Cloud Computing**
-- The cloud is a network of remote servers hosted on the internet used to store, manage, and process data.
-- The cloud can be referred to as Hardware (hard drives, processors) and Applications (Google Workspace, Microsoft 365).
+- The cloud is a network of remote servers hosted on the internet to store, manage, and process data.
+- The cloud can be called Hardware (hard drives, processors) and Applications (Google Workspace, Microsoft 365).
 - The cloud can be referred to as databases (Snowflake, Databricks) and coding environments (Colab, VSCode, Project IDX, Sqliteonline) 
 - The cloud can be referred to as a learning platform (Udemy, LinkedIn, etc) and entertainment platform (YouTube, Netflix, Hotstar, etc)
 
 ### Why do we choose the cloud?
-- The cloud serves as an extension of computing resources and allows individuals and companies to work on massive computing resources.
+- The cloud extends computing resources and allows individuals and companies to work on massive computing resources.
 - It reduces the dependency on local computing systems, equipment, maintenance, servicing and infrastructure.
 - We don't have to think about increasing the storage, memory, or processor. Everything is handled by the cloud service provider.
 - We don't have to worry about resource configurations and updates, it can scale up and down according to need.
-- Example: YouTube and Undemy, Because of live streaming, we don't need to download any content on our local system.
+- Example: YouTube and Udemy, Because of live streaming, we don't need to download any content on our local system.
 - Easy access to data stored on the cloud helps Data Engineers, Data Scientists, and Data Analyst to collaborate remotely at the same time.
 - Integration of the cloud with Business Intelligence is helping us with immediate decisions, on-demand solutions, and advanced analytics.
 - We don't need to transition completely to the cloud, the cloud can be used as an extension (hybrid) to our existing on-prem servers.
